@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Form Data Diri")
 st.write("Silahkan isi data diri anda")
-st.write("Made by intan")
+st.write("Made by bilqis")
 
 with st.form("form_data_diri"):
     nama = st.text_input("Nama")
